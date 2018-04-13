@@ -8,6 +8,7 @@ body {
 }
 .main img{
     width: 100%;
+    display: block;
 }
 @media screen and (max-width: 1400px) {
     .main {
