@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.main {
+    width: 1400px;
+    margin: 0 auto;
+}
+.main img{
+    width: 100%;
+    display: block;
+}
+@media screen and (max-width: 1400px) {
+    .main {
+        width: 100%;
+    }
+}
