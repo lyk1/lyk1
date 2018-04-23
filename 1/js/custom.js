@@ -17,14 +17,14 @@ $(function(){
 /*--------------------------------------------------
     Open video modal
     ---------------------------------------------------*/
-	$('#popup-youtube').magnificPopup({
-	    disableOn: 700,
-	    type: 'iframe',
-	    mainClass: 'mfp-fade',
-	    removalDelay: 160,
-	    preloader: false,
-	    fixedContentPos: false
-	});
+	// $('#popup-youtube').magnificPopup({
+	//     disableOn: 700,
+	//     type: 'iframe',
+	//     mainClass: 'mfp-fade',
+	//     removalDelay: 160,
+	//     preloader: false,
+	//     fixedContentPos: false
+	// });
 	
 /*--------------------------------------------------
     Page Scroll Features 

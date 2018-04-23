@@ -18,6 +18,10 @@ p,h6, address{
 h1,h2,h3,h4,h5,h6{
 	text-transform: uppercase;
 }
+a.k_btn{
+	font-size: 16px;
+	padding: 16px 70px;
+}
 header{
 	height: 800px;
 	text-align: center;
@@ -192,7 +196,7 @@ textarea.form-control{
 }
 
 .btn-lg.btn-primary{
-	border-width: 2px;
+	border-width: 1px;
 }
 
 .btn-primary{
@@ -301,7 +305,7 @@ TESTIMONIAL
 **********/
 .testimonial{
 	
-	background: url(../img/coffe.jpg) no-repeat center;
+	background: url(../img/keyboard.jpg) no-repeat center;
 	background-size: cover;
 	position: relative;
 }
@@ -394,7 +398,7 @@ address .fa{
 /**FOOTER**/
 footer{
 	background: #000;
-	padding: 80px 0;
+	padding: 60px 0;
 }
 
 footer,
