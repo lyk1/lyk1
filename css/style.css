@@ -278,6 +278,7 @@ PORTFOLIO
 }
 .centered-pills li {
 	display: inline;
+	margin: 5px 0;
 }
 .centered-pills a {
 	float: left;
