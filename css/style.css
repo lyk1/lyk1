@@ -307,8 +307,8 @@ PORTFOLIO
 TESTIMONIAL
 **********/
 .testimonial{
-	
 	background: url(../img/keyboard.jpg) no-repeat center;
+	background-attachment:fixed;
 	background-size: cover;
 	position: relative;
 }
