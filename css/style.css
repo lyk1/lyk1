@@ -477,8 +477,33 @@ ul.social li a i:focus{
 	color: #000;
 
 }
+.job_D,.job_D *{
+	/* border: 1px solid red; */
+}
+.job_D{
+	min-height: 355px;
+	background: url(../img/bg1.png) no-repeat center;
+	color: #FFF;
+}
+.job_D>.container{
+	padding-top: 40px;
+}
+.job_D .d_left h6,.job_D .d_left p{
+	color: #FFF;
+}
+.xf_D{
+	position: relative; width: 100%;height: 4px;background-color: #D0CDC7;
+	margin-top: 10px;
+}
+.xf_D1{
+	position: absolute;left: 0;top:0;height: 4px;background-color: #FFF792;
+}
+.info_height0{
 
-
+}
+.info_height{
+	height: 30px;
+}
 /*****************************
 RESPONSIVE
 ******************************/
