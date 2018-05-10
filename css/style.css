@@ -502,7 +502,7 @@ ul.social li a i:focus{
 
 }
 .info_height{
-	height: 30px;
+	height: 37px;
 }
 /*****************************
 RESPONSIVE
@@ -528,7 +528,9 @@ RESPONSIVE
 	}
 	
 }
-
+.ipcenterBtn{
+	margin-bottom: 0;
+}
 @media (max-width: 767px){
 
 	.navbar-toggle{
@@ -541,5 +543,17 @@ RESPONSIVE
 	}
 	.testimonial1{
 		display: none;
+	}
+	.ipcenter{
+		text-align: center;
+	}
+	.iphide{
+		display: none;
+	}
+	.ippending15{
+		padding: 0 15px;
+	}
+	.ipcenterBtn{
+		text-align: center;
 	}
 }
