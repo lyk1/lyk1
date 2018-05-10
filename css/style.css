@@ -477,9 +477,6 @@ ul.social li a i:focus{
 	color: #000;
 
 }
-.job_D,.job_D *{
-	/* border: 1px solid red; */
-}
 .job_D{
 	min-height: 355px;
 	background: url(../img/bg1.png) no-repeat center;
@@ -490,6 +487,9 @@ ul.social li a i:focus{
 }
 .job_D .d_left h6,.job_D .d_left p{
 	color: #FFF;
+}
+.job_D .d_left p{
+	line-height: 30px;
 }
 .xf_D{
 	position: relative; width: 100%;height: 4px;background-color: #D0CDC7;
