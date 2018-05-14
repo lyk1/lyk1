@@ -468,7 +468,11 @@ ul.social li a i{
 	-webkit-transition: all 0.5;
 	transition: all 0.5s;
 }
-
+.userIcon img{
+	width: 400px;
+    padding-top: 69px;
+    float: right;
+}
 
 ul.social li a i:hover,
 ul.social li a i:focus{

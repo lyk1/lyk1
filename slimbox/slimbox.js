@@ -194,7 +194,7 @@
             centerWidth = preload.width;
             centerHeight = preload.height;
         }
-        console.log("width" + centerWidth + "height" + centerHeight);
+        // console.log("width" + centerWidth + "height" + centerHeight);
         $(center).css({ top: Math.max(0, middle - (centerHeight / 2)), width: centerWidth, height: centerHeight, marginLeft: -centerWidth / 2 }).show();
 
         center.className = "";
