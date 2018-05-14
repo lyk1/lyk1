@@ -88,7 +88,7 @@
                     <h5>Download my resume document and find out more about me.</h5>
                 </div>
                 <div class="col-md-2">
-                    <a href="luyongkang-ui.pdf" class="btn btn-cta" download="卢永康-ui设计师">立即下载</a>
+                    <a href="luyongkang-ui11.pdf" class="btn btn-cta" download="卢永康-ui设计师">立即下载</a>
                 </div>
             </div>
         </div>
@@ -105,7 +105,9 @@
                     <p style="line-height: 30px;" class="ipcenter">卢永康 LuYongkang 男 1992.01
                         <br/> UI设计师 5年视觉设计工作经验</p>
                     <p style="line-height: 25px;" class="ippending15">专业的艺术设计教育背景，具备扎实的理论技术，5年设计经验，能精准把握用户需求。平面设计出身，网页设计、app设计、微信小程序设计经验丰富，涉及到金融，电商，资讯，广告多方面。学习、适应能力强，抗压型选手。带过小型设计团队。性格积极阳光，能快速融入团队并活跃团队气氛！</p>
-                    <p class="ipcenterBtn"><a data-scroll href="#portfolio" class="btn btn-primary">个人作品</a></p>
+                    <p class="ipcenterBtn">
+                        <a data-scroll href="#portfolio" class="btn btn-primary">个人作品</a>
+                    </p>
                 </div>
                 <div class="col-md-6">
                     <img src="img/typewriter.png" class="img-responsive">
@@ -202,7 +204,7 @@
 
                 </ul>
             </nav>
-            <div class="row">
+            <div class="row imgLists">
                 <figure class="mix all web col-md-4 col-sm-6">
                     <img class="img-responsive" src="img/web/1.png" />
                 </figure>
@@ -323,6 +325,14 @@
         crossorigin="anonymous"></script>
     <script type="text/javascript" src="js/smooth-scroll.js"></script>
     <script src="js/custom.js"></script>
+    <script src="slimbox/slimbox.js" type="text/javascript"></script>
+    <link href="slimbox/slimbox.css" rel="stylesheet" type="text/css" />
 </body>
 
 </html>
+<script>
+    //适用范围需自行调整
+    jQuery(document).ready(function ($) {
+        $(".imgLists img").slimbox();
+    });
+</script>
