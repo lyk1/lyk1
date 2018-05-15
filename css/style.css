@@ -530,13 +530,18 @@ RESPONSIVE
 		right: 50px;
 		opacity: 1;
 	}
-	
+	.imgLists figure img{
+		height: 250px;
+	}
 }
 .ipcenterBtn{
 	margin-bottom: 0;
 }
 @media (max-width: 767px){
-
+	
+	.imgLists figure img {
+		height:auto
+	}
 	.navbar-toggle{
 		margin-top: -45px;
 	}
@@ -560,4 +565,7 @@ RESPONSIVE
 	.ipcenterBtn{
 		text-align: center;
 	}
+}
+.imgLists figure{
+	text-align: center;
 }
