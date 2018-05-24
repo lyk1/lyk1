@@ -29,7 +29,7 @@ header{
 	text-align: center;
 	margin-bottom: 0;
 	position: relative;
-	background-image: url(../img/header.jpg);
+	background-image: url(http://wx3.sinaimg.cn/large/005DUSWoly1frm6vuri0dj31c00u0nju.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -223,7 +223,7 @@ textarea.form-control{
 }
 
 .video{
-	background-image: url(../img/keyboard.jpg);
+	background-image: url(http://wx2.sinaimg.cn/large/005DUSWoly1frm6vvh0jkj31hc1401ah.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -307,14 +307,14 @@ PORTFOLIO
 TESTIMONIAL
 **********/
 .testimonial{
-	background: url(../img/keyboard.jpg) no-repeat center;
+	background: url(http://wx2.sinaimg.cn/large/005DUSWoly1frm6vvh0jkj31hc1401ah.jpg) no-repeat center;
 	background-attachment:fixed;
 	background-size: cover;
 	position: relative;
 }
 .testimonial1{
 	
-	background: url(../img/bg1.png) no-repeat center;
+	background: url(http://wx4.sinaimg.cn/large/005DUSWoly1frm72dwqu7j31hc0dtk0g.jpg) no-repeat center;
 	background-size: cover;
 	position: relative;
 	text-align: center;
@@ -483,7 +483,7 @@ ul.social li a i:focus{
 }
 .job_D{
 	min-height: 355px;
-	background: url(../img/bg1.png) no-repeat center;
+	background: url(http://wx4.sinaimg.cn/large/005DUSWoly1frm72dwqu7j31hc0dtk0g.jpg) no-repeat center;
 	color: #FFF;
 }
 .job_D>.container{
